@@ -5,7 +5,7 @@ function Home() {
     <div className="container">
      <div className="profile-section">
   <h1>Yasaswini Vankena</h1>
-  <img src={process.env.PUBLIC_URL + "/profile.jpeg"} alt="Profile" className="profile-img" />
+  <img src={process.env.PUBLIC_URL + "/profile2.jpeg"} alt="Profile" className="profile-img" />
 </div>
 
       <div className="card">
