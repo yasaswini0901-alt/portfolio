@@ -26,7 +26,7 @@ function Home() {
         <h2>Personal Details</h2>
         <ul>
           <li>Name: Yasaswini Vankena</li>
-          <li>Phone: 1234567890</li>
+          <li>Phone: 6281789091</li>
           <li>Email: yasaswini0901@gmail.com</li>
           <li>College Email: se23ucse180@mahindrauniversity.edu.in</li>
           <li>Skills: React, Python, Java</li>
